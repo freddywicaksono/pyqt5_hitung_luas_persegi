@@ -8,3 +8,7 @@
 * txtLebar
 * txtLuas
 * btnHitung
+
+
+Source:
+https://www.pythonguis.com/examples/simple-sales-tax-calculator/
